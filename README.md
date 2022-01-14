@@ -29,3 +29,15 @@ respuesta.
 4.2. ¿Cuál fue la potencia máxima en RL?
 
 4.3. ¿Para qué valor de RL se obtiene la MTP?
+
+5.	VIDEO
+
+
+
+6.	CONCLUSIONES	
+
+7. BIBLIOGRAFÍA 
+
+Floyd, T. L. (2007). Principios de Circuitos Eléctricos: Vol. Octava Edición. Pearson Education.
+
+
