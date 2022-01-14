@@ -48,6 +48,7 @@ resultados en la tabla 6.1.
 4.	RESPUESTAS A INTERROGANTES Y CALCULO DEL ERROR.
 
 ![Lab 6 final_Página_5](https://user-images.githubusercontent.com/93209004/149527054-003c788f-c68b-4ca0-8bd4-dafad55876be.jpg)
+![Errores](https://user-images.githubusercontent.com/93209004/149531824-1757b275-6567-4a0c-bf5b-6342eb8f650e.jpg)
 
 4.1. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
 respuesta.
