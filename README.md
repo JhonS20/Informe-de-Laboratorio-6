@@ -4,7 +4,12 @@
 
 1.1.	Objetivos Generales 
 
+• Analizar y describir mediante el calculo de forma teórica y experimental, los efectos de una carga cuando sus valores son menores y mayores en comparación con la resistencia interna de una fuente de voltaje.
+
 1.2.	Objetivos Específicos 
+
+• Aventurar al estudiante en la aplicación de otros instrumentos de medición para que se comprenda su funcionamiento y la manera correcta de utilizarlos.
+• 
 
 2.	MARCO TEORICO
 
