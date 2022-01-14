@@ -6,7 +6,10 @@
 
 1.2.	Objetivos Específicos 
 
-2.	MARCO TEORICO 
+2.	MARCO TEORICO
+
+![Diagrama en blanco (4)](https://user-images.githubusercontent.com/93899658/149516494-038f163c-e525-4ef8-9ea2-d2d9210e9adc.png)
+
 
 3.	EXPLICACION DEL PROCEDIMIENTO
 
@@ -32,9 +35,13 @@ respuesta.
 
 5.	VIDEO
 
-
+https://www.youtube.com/watch?v=V2PDYstjvoc
 
 6.	CONCLUSIONES	
+
+• Notamos que este teorema seria muy aplicable en fuentes de corriente cosntante C.D. , sin embargo si tratamos con fuentes de corriente alterna C.A. no dara como resultado la eficiencia maxima, ya que en la realidad no existe fuentes de coriente  
+ 
+• El teorema se basa en un análisis matemático que trabaja con los valores reales de los componentes, del tal manera que el resultado obtenido nos da una respuesta directa de como construir un circuito con este tipo de características, y esto es muy útil ya que en la realidad se debe considerar que una resistencia de carga demasiado baja no solo dará como resultado una salida de baja potencia, sino que posiblemente se sobrecalentará el amplificador debido a la potencia disipada en su resistencia interna.
 
 7. BIBLIOGRAFÍA 
 
