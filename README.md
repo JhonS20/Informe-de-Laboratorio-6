@@ -9,6 +9,7 @@
 1.2.	Objetivos Específicos 
 
 •	Aventurar al estudiante en la aplicación de otros instrumentos de medición para que se comprenda su funcionamiento y la manera correcta de utilizarlos.
+
 • Mediante la ley de Ohm deducir las formulas de potencias para el calculo de potencia de forma teorica.
 
 2.	MARCO TEORICO 
