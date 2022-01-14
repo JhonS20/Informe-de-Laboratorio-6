@@ -9,6 +9,7 @@
 1.2.	Objetivos Específicos 
 
 •	Aventurar al estudiante en la aplicación de otros instrumentos de medición para que se comprenda su funcionamiento y la manera correcta de utilizarlos.
+• Mediante la ley de Ohm deducir las formulas de potencias para el calculo de potencia de forma teorica.
 
 2.	MARCO TEORICO 
 
@@ -69,7 +70,7 @@ https://www.youtube.com/watch?v=V2PDYstjvoc
 
 6.	CONCLUSIONES	
 
-• Notamos que este teorema sería muy aplicable en fuentes de corriente constante C.D., sin embargo, si tratamos con fuentes de corriente alterna C.A. no dará como resultado la eficiencia máxima, ya que en la realidad no existe fuentes de corriente.
+• Es excelente lograr una mayor eficiencia que la transferencia de potencia maximizada en el caso de sistemas de transmisión de potencia donde una gran carga resistencia (valor mucho más grande que la resistencia de la fuente interna) se coloca a través de la carga. Aunque la eficiencia es alta, la potencia entregada será menor en esos casos.
  
 • El teorema se basa en un análisis matemático que trabaja con los valores reales de los componentes, del tal manera que el resultado obtenido nos da una respuesta directa de cómo construir un circuito con este tipo de características, y esto es muy útil ya que en la realidad se debe considerar que una resistencia de carga demasiado baja no solo dará como resultado una salida de baja potencia, sino que posiblemente se sobrecalentará el amplificador debido a la potencia disipada en su resistencia interna.
 
