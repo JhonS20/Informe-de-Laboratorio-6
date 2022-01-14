@@ -4,9 +4,15 @@
 
 1.1.	Objetivos Generales 
 
+• Analizar y describir mediante el cálculo de forma teórica y experimental, los efectos de una carga cuando sus valores son menores y mayores en comparación con la resistencia interna de una fuente de voltaje
+
 1.2.	Objetivos Específicos 
 
+•	Aventurar al estudiante en la aplicación de otros instrumentos de medición para que se comprenda su funcionamiento y la manera correcta de utilizarlos.
+
 2.	MARCO TEORICO 
+
+![Diagrama en blanco (4)](https://user-images.githubusercontent.com/93899658/149516494-038f163c-e525-4ef8-9ea2-d2d9210e9adc.png)
 
 3.	EXPLICACION DEL PROCEDIMIENTO
 
@@ -58,9 +64,14 @@ Si se cumple ya que cuando RL es igual a 1000 Ohmnios, se obtiene la mayor trans
 
 5.	VIDEO
 
-
+https://www.youtube.com/watch?v=V2PDYstjvoc
 
 6.	CONCLUSIONES	
+
+• Notamos que este teorema sería muy aplicable en fuentes de corriente constante C.D., sin embargo, si tratamos con fuentes de corriente alterna C.A. no dará como resultado la eficiencia máxima, ya que en la realidad no existe fuentes de corriente.
+ 
+• El teorema se basa en un análisis matemático que trabaja con los valores reales de los componentes, del tal manera que el resultado obtenido nos da una respuesta directa de cómo construir un circuito con este tipo de características, y esto es muy útil ya que en la realidad se debe considerar que una resistencia de carga demasiado baja no solo dará como resultado una salida de baja potencia, sino que posiblemente se sobrecalentará el amplificador debido a la potencia disipada en su resistencia interna.
+
 
 7. BIBLIOGRAFÍA 
 
